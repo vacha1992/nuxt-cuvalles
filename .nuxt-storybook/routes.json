@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\Chava\\\\Desktop\\\\diplomado\\\\modulo5\\\\nuxt-cuvalles\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Chava\\\\Desktop\\\\diplomado\\\\modulo5\\\\nuxt-cuvalles\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
